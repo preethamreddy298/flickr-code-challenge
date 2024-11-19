@@ -49,12 +49,3 @@ The project includes unit tests for the `FlickrViewModel`. To run the tests:
 2. Press `Cmd+U` or navigate to Product > Test
 
 ![screenshot](screenshot.jpg)
-
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions, feel free to reach out to [Sujan Kota](mailto:preethamreddy298@gmail.com).
